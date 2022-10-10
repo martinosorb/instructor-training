@@ -128,6 +128,25 @@ maximize learning for both. In these cases, make sure the beginner is doing the 
 + **Acknowledging when learners are confused**. Acknowledging and exploring confusion with kindness rewards learners for sharing vulnerable information. It also 
 helps you examine your expert awareness gaps! Formative assessments can pinpoint misunderstandings. When learners see  that others are confused, they are more likely to share their own uncertainties.
 
+### "Let them eat cake first"
+
+If you're running a cooking blog and are hoping your readers will try your new cake recipe, what would you start your blog post with:
+the technical details of the preparation, or a nice photograph of how the cake is going to be?
+
+The vast majority of modern cookbooks are much richer in attractive pictures than they used to be.
+Having a clear sense of the final outcome can help us understand **what** we are trying to learn and **why**.
+With the goal in mind, we may be better motivated to go through the more technical parts and appreciate their importance.
+
+Analogously, when designing your lessons, 
+
++ At the beginning of a lesson on 'data analysis', learners may not have a clear picture of what data analysis means and why it's interesting.
+Showing them a solved example with results, findings, and plots of the data, may give them a clearer sense of the objective and how it may
+be useful to them.
++ At the beginning of a Python workshop, you could show an example of a well-designed scatterplot of relatable data,
+and tell your learners that by the end of the workshop they will learn how to make a similar one with their newly acquired Python skills.
+This is much more concrete than 'this workshop covers the basics of Python'.
+
+
 ### Encourage a Growth Mindset
 
 People vary in their beliefs about the nature of intelligence and skill development. In academic environments, people 
