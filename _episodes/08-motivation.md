@@ -128,6 +128,27 @@ maximize learning for both. In these cases, make sure the beginner is doing the 
 + **Acknowledging when learners are confused**. Acknowledging and exploring confusion with kindness rewards learners for sharing vulnerable information. It also 
 helps you examine your expert awareness gaps! Formative assessments can pinpoint misunderstandings. When learners see  that others are confused, they are more likely to share their own uncertainties.
 
+### "Let them eat cake first"
+
+If you're running a cooking blog and are hoping to encourage your readers to try your new cake recipe, what would you start your blog post with:
+"sift 250 g of flour in a bowl", or with a nice photograph of how the cake is going to be?
+
+The vast majority of modern cookbooks are much richer in attractive pictures than they used to be.
+Having a clear sense of the final outcome can help us understand **what** we are trying to learn and **why**.
+With the goal in mind, we may be better motivated to go through the more technical parts and appreciate their importance.
+
+Analogously, when designing your lessons, make sure your learners always have a relatable aim in mind.
+This is called backward lesson design, and is further explained in [this talk](https://www.youtube.com/watch?v=fQ4t7p6ZXDg) by Dr Mine Çetinkaya-Rundel.
+Here are some examples of how this might be applied to Carpentries technical workshops:
+
++ At the beginning of a lesson on 'data analysis', learners may not have a clear picture of what data analysis means and why it's interesting.
+Showing them a solved example with results, findings, and plots of the data, may give them a clearer sense of the objective and how it may
+be useful to them.
++ At the beginning of a Python workshop, one could show an example of a well-designed scatterplot of a relevant dataset,
+and tell the learners that by the end of the workshop they will learn how to make a similar one with their newly acquired Python skills.
+This is much more concrete than 'this workshop covers the basics of Python', and may help them endure more technical aspects of the lesson that some may find difficult.
+
+
 ### Encourage a Growth Mindset
 
 People vary in their beliefs about the nature of intelligence and skill development. In academic environments, people 
